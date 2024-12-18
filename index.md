@@ -1,4 +1,3 @@
-![BackgroundImage](TP24BG.png)
 ## **Tổng kết ✨**
 > Qua buổi học Truyền thông thứ 3 cùng Cá Voi, chắc các bạn cũng đang đau đầu để nhớ lại kiến thức mình đã học là gì đúng hong nè? Để mình tóm tắt lại những gì đã học nhé:
 - Nội dung buổi học: 
